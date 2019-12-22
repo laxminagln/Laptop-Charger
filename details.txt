@@ -1,0 +1,32 @@
+At its most basic, all you really need is a cheap battery pack, a voltage booster, 
+and a cable for charging your laptop.
+Core
+Regular Cellphone Charging Battery Pack (5Volts)
+Step-Up Power Converter Module
+A charging cable for your laptop 
+USB Cable
+There are a couple extra things that make building this a bit easier. For instance 
+if you have an apple laptop, they sell really cheap cables for them that are already 
+split out into two leads.
+Helpful Accessories
+Male and Female Barrel Plug Adapters.
+Chop your USB cable and isolate its positive and negative power leads (black and red) 
+(or just use one of these USB connectors: https://www.sparkfun.com/products/437 ) 
+Connect the positive and negative USB leads to the Input side of the power-booster 
+(to the + and - respectively) 
+Plug the USB into the battery to see if it turns on (should light up with the display) 
+Turn the small screw potentiometer until the output display shows around 19-20V (it 
+will bounce around a bit). Also check to see what voltage your laptop needs (most want 
+about 18-20V).
+Now take that repair cable that charges your computer and connect its positive and 
+negative ends to the + and - of the Output side (if you just have a spare AC adapter 
+for your laptop, chop off the end leading to your computer and strip out its positive 
+and negative ends) 
+Connect to your laptop!
+If all goes well, your laptop should start getting fed extra juice!
+Now some laptops are much more power-hungry than others,and will react in different 
+ways. For instance, my macbook retina 15inch will display the power connection as 
+"Plugged in, not charging" and will still make the laptop last for 14+ hours. Other 
+smaller laptops, like my macbook air, are much less power-hungry, and actually start 
+charging from this. They also charge quicker (if that's what you are looking to do), 
+while they are turned off.
